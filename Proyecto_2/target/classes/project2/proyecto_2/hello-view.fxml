@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.stage.*?>
+
+<Stage title="Cuestionario App" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+    <scene>
+        <Scene>
+            <AnchorPane prefHeight="402.0" prefWidth="484.0" />
+        </Scene>
+    </scene>
+</Stage>
